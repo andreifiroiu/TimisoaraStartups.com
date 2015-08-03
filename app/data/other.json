@@ -1,0 +1,233 @@
+{"items": [
+	{
+		"name": "StartupHub",
+		"filters": "filter_place",
+		"type": "place",
+		"logo": "startup-hub.jpg",
+		"description": "Newest creative industries startup support initiative, located in Timisoara City Business Centre as 24/7 coworking space w/ a diverse set of services.",
+		
+		"website": "http://www.startuphub.ro/",
+		"facebook": "https://www.facebook.com/700StartupHub",
+		"twitter": "",
+		
+		"people": ["Radu Ticiu", "Vlad Isac"]
+	},
+
+	{
+		"name": "AltClub",
+		"filters": "filter_place",
+		"type": "place",
+		"logo": "altclub.jpg",
+		"description": "Private club dedicated to tech & digital-creative community.",
+		"address": "strada V.V. Delamarina, nr. 1 Timișoara",
+		"phone": "0733 055 205",
+
+		"latitude": "",
+		"longitude": "",
+
+		"email": "contact@altclub.ro",
+		"website": "http://altclub.ro/",
+		"facebook": "https://www.facebook.com/altclub.ro",
+		"twitter": "",
+		
+		"people": ["Stefan Szakal"]
+	},
+
+	{
+		"name": "Startup Coffee",
+		"filters": "filter_community",
+		"type": "community",
+		"logo": "startup-coffee.png",
+		"description": "Regular informal meet-ups for entrepreneurs, investors and people interested in entrepreneurship, everyone is welcome!",
+
+		"website": "",
+		"facebook": "https://www.facebook.com/groups/StartupCoffeeTimisoara/",
+		"twitter": "",
+		"meetup": "",
+
+		"people": ["Andrei Firoiu", "Adrian Pica"]
+	},
+
+	{
+		"name": "Startup Weekend Timisoara",
+		"filters": "filter_event",
+		"type": "event",
+		"logo": "startup-weekend-timisoara.jpg",
+		"description": "Idea to startup in just 54 hours! Life is short. Build stuff that matters.",
+
+		"website": "http://www.up.co/communities/romania/timisoara/startup-weekend/",
+		"facebook": "https://www.facebook.com/StartupWeekendTimisoara",
+		"twitter": "",
+		"meetup": "",
+
+		"people": ["Andrei Munteanu", "Adrian Pica", "Andrei Firoiu", "Madalina Rosu", "Valentina Taroi", "Ana Maria Radu", "Flory Rosiu"]
+	},
+
+	{
+		"name": "Startup Pirates Timisoara",
+		"filters": "filter_event",
+		"type": "event",
+		"logo": "startup-pirates-timisoara.jpg",
+		"description": "Startup Pirates is a one-week program that enables aspiring entrepreneurs to get inside the startup world and learn how to develop a business idea.",
+
+		"website": "http://timisoara.startuppirates.org/",
+		"facebook": "https://www.facebook.com/sptimisoara",
+		"twitter": "",
+		"meetup": "",
+
+		"people": ["Andrei Firoiu", "Adrian Pica"]
+	},
+
+	{
+		"name": "BanatIT",
+		"filters": "filter_organization",
+		"type": "organization",
+		"logo": "banatit.jpg",
+		"description": "Banat IT is an initiative aiming to support the development of IT field in the region of Banat, Romania",
+
+		"website": "http://banatit.ro/",
+		"facebook": "https://www.facebook.com/BanatIT",
+		"twitter": "https://twitter.com/Banat_IT",
+		"linkedin": "http://www.linkedin.com/groups/Banat-IT-7403307",
+		"meetup": "",
+
+		"people": ["Radu Ticiu", "Vlad Isac", "Mile Rosu"]
+	},
+
+	{
+		"name": "CoderDojo Timisoara",
+		"filters": "filter_community",
+		"type": "community",
+		"logo": "coder-dojo.jpg",
+		"description": "A Timisoara implementation of a concept developed by an Irish-led global movement of coding clubs for kids. Bring your kids to learn to code, hack, develop...",
+
+		"website": "http://www.coderdojo.ro/",
+		"facebook": "https://www.facebook.com/CoderDojo.Timisoara",
+		"twitter": "https://twitter.com/coderdojotm",
+		"meetup": "",
+
+		"people": ["Radu Ticiu", "Vlad Isac"]
+	},
+
+	{
+		"name": "Business Days Timisoara",
+		"filters": "filter_event",
+		"type": "event",
+		"logo": "business-days.jpg",
+		"description": "Business Conference",
+
+		"website": "http://www.businessdays.ro/",
+		"facebook": "https://www.facebook.com/BusinessDays",
+		"twitter": "http://twitter.com/#!/businessdaysro",
+		"linkedin": "http://www.linkedin.com/groups/Business-Days-3766018",
+		"meetup": "",
+
+		"people": []
+	},
+
+	{
+		"name": "Creative Minds Hub",
+		"filters": "filter_place",
+		"type": "place",
+		"logo": "creative-minds.jpg",
+		"description": "Colaborative Education & co-working space for students",
+
+		"website": "http://creativeminds.tm.ro/",
+		"facebook": "https://www.facebook.com/creativeminds.feaa",
+		"twitter": "",
+		"linkedin": "https://www.linkedin.com/company/feaa-creative-minds",
+		"meetup": "",
+
+		"people": ["Remus Radvan"]
+	},
+
+	{
+		"name": "Dumitrescu & Asociatii",
+		"filters": "filter_organization",
+		"type": "organization",
+		"logo": "dumitrescu-si-asociatii.jpg",
+		"description": "Consultanta juridica si de afaceri. Membri in retele internationale de consultanta legala si organisme asociative cu conexiuni transeuropene.",
+
+		"website": "http://www.dumitrescuasc.ro/",
+		"facebook": "https://www.facebook.com/pages/Dumitrescu-Asociatii/146820325344755",
+		"twitter": "",
+		"meetup": "",
+
+		"people": ["Florin Dumitrescu"]
+	},
+
+	{
+		"name": "Ctrl+D",
+		"filters": "filter_community",
+		"type": "community",
+		"logo": "ctrl-d.jpg",
+		"description": "Ctrl-D este o asociație de design, development și digital.",
+
+		"website": "http://ctrl-d.ro/",
+		"facebook": "https://www.facebook.com/Ctrl.D.ro",
+		"twitter": "https://twitter.com/Ctrl_Dro",
+		"meetup": "",
+
+		"people": ["Oana Pislaru", "Stefan Szakal"]
+	},
+
+	{
+		"name": "Startup Kids Timisoara",
+		"filters": "filter_event",
+		"type": "event",
+		"logo": "startup-kids.png",
+		"description": "A project run by Timisoara Startup Hub, educating & motivating youth to start own businesses by direct contact with successful entrepreneurs & experts.",
+
+		"website": "http://startupkids.ro/",
+		"facebook": "https://www.facebook.com/StartupKidsTimisoara",
+		"twitter": "",
+		"meetup": "",
+
+		"people": ["Radu Ticiu"]
+	},
+
+	{
+		"name": "Plan 0 Makerspace",
+		"filters": "filter_place",
+		"type": "place",
+		"logo": "plan-zero.jpg",
+		"description": "Colaborative space for hackers and makers.",
+
+		"website": "",
+		"facebook": "https://www.facebook.com/pages/Plan-0-Makerspace/512949058858081",
+		"twitter": "",
+		"meetup": "",
+
+		"people": []
+	},
+
+	{
+		"name": "HackTM",
+		"filters": "filter_event",
+		"type": "event",
+		"logo": "hacktm.jpg",
+		"description": "HackTM is the Timisoara super-sized software & hardware development hackathon.",
+
+		"website": "http://hacktm.ro/",
+		"facebook": "https://www.facebook.com/hacktm2014",
+		"twitter": "",
+		"meetup": "",
+
+		"people": ["Radu Ticiu", "Vlad Isac", "Ana Maria Radu"]
+	},
+
+	{
+		"name": "",
+		"filters": "filter_place filter_event filter_community filter_organization filter_publication",
+		"type": "place,event,community,organization,publication",
+		"logo": "",
+		"description": "",
+
+		"website": "",
+		"facebook": "",
+		"twitter": "",
+		"meetup": "",
+
+		"people": []
+	}
+]}

@@ -1,0 +1,1632 @@
+{ "items": [
+	
+	{
+		"name": " 123ContactForm",
+		"filters": "filter_ab", 
+		"status": "VC funded",
+		"description": "Online form & survey builder",
+		"tags": "developer tools,web design,form builder,web tools",
+		"logo": "123contactform.png",
+		"angellist": "https://angel.co/123contactform",
+		"crunchbase": "https://www.crunchbase.com/organization/123contactform",
+		"facebook": "https://www.facebook.com/123ContactForm",
+		"twitter": "http://twitter.com/@123contactform",
+		"linkedin": "http://www.linkedin.com/company/123contactform",
+		"website": "http://www.123contactform.com/",
+		"email": "",
+		
+		"people": ["Florin Cornianu", ""],
+		
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Style Jukebox",
+		"filters": "filter_ab",
+		"status": "VC funded",
+		"description": "Play your music from the Cloud in High Fidelity, on all your devices.",
+		"tags": "mobile,saas,cloud,music",
+		"logo": "stylejukebox.png",
+		
+		"angellist": "https://angel.co/style-jukebox-hifi-cloud-player",
+		"crunchbase": "https://www.crunchbase.com/organization/style-jukebox",
+		"facebook": "http://www.facebook.com/stylejukebox",
+		"twitter": "http://twitter.com/stylejukebox",
+		"linkedin": "http://www.linkedin.com/company/style-jukebox",
+		"website": "http://www.stylejukebox.com",
+		"email": "team@stylejukebox.com",
+		
+		"people": ["Ionut Antiu"],
+		
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Presslabs",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "WordPress hosting dedicated to publishers",
+		"tags": "hosting,wordpress",
+		"logo": "presslabs.png",
+		"angellist": "https://angel.co/presslabs",
+		"crunchbase": "https://www.crunchbase.com/organization/presslabs",
+		"facebook": "https://www.facebook.com/presslabs",
+		"twitter": "https://twitter.com/presslabs",
+		"linkedin": "",
+		"website": "http://www.presslabs.com/",
+		"email": "",
+		
+		"people": [""],
+		
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+	
+	{
+		"name": "Freshome.com",
+		"filters": "filter_mature", 
+		"status": "mature",
+		"description": "Freshome is an online magazine about modern design, architecture. art, style, creativity and everything that makes life less ordinary.",
+		"tags": "home,decoration,blog,design",
+		"logo": "freshhome.jpg",
+		"angellist": "https://angel.co/freshhome",
+		"crunchbase": "https://www.crunchbase.com/organization/freshome",
+		"facebook": "https://www.facebook.com/freshome",
+		"twitter": "http://twitter.com/freshome",
+		"linkedin": "",
+		"website": "http://freshome.com/",
+		"email": "admin@freshome.com",
+		
+		"people": ["Mihai-Cristian Micle"],
+		
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Oblico",
+		"filters": "filter_accel", 
+		"status": "seed funded",
+		"description": "Discover and connect with professionals around you",
+		"tags": "mobile,b2b,events,networking",
+		"logo": "oblico.png",
+		"angellist": "https://angel.co/oblico",
+		"crunchbase": "https://www.crunchbase.com/organization/oblico",
+		"facebook": "http://facebook.com/oblicohq",
+		"twitter": "http://twitter.com/oblicohq",
+		"linkedin": "",
+		"website": "http://obli.co/",
+		"email": "hello@obli.co",
+		
+		"people": ["Adrian Pica", "Andrei Firoiu"],
+		
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Hipride",
+		"filters": "filter_idea", 
+		"status": "pre-release",
+		"description": "Car sharing service",
+		"tags": "transportation",
+		"logo": "hipride.png",
+		"angellist": "https://angel.co/hipride",
+		"crunchbase": "",
+		"facebook": "",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.hipride.co/",
+		"email": "",
+		
+		"people": ["Raul Andrisa", "Vlad Drimbau"],
+		
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Ubirimi",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Fast Productivity Tools",
+		"tags": "project management,saas,productivity",
+		"logo": "ubirimi.png",
+		"angellist": "https://angel.co/ubirimi",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/Ubirimi",
+		"twitter": "https://twitter.com/ubirimi",
+		"linkedin": "http://www.linkedin.com/company/ubirimi",
+		"website": "https://ubirimi.com/",
+		"email": "",
+		
+		"people": ["Flavius Nopcea", "Francis Nopcea"],
+		
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "AziLaPranz.ro",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Daily offers listing service for restaurants",
+		"tags": "food,deals,local",
+		"logo": "azilapranz.png",
+		"angellist": "https://angel.co/azilapranz-ro",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/pages/AziLaPrânzro/188412787837600",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.azilapranz.ro/",
+		"email": "hello@azilapranz.ro",
+		
+		"people": ["Andrei Firoiu"],
+		
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "StartAppMe",
+		"filters": "filter_dead", 
+		"status": "closed",
+		"description": "Networking app for startup events.",
+		"tags": "",
+		"logo": "startappme.jpg",
+		"angellist": "https://angel.co/startappme",
+		"crunchbase": "",
+		"facebook": "",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.startappme.co/",
+		"email": "",
+		
+		"people": ["Adrian Pica", "Andrei Firoiu"],
+		
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "MindQuilt",
+		"filters": "filter_angel", 
+		"status": "seed funded",
+		"description": "",
+		"tags": "",
+		"logo": "mindquilt.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/mindquilt",
+		"twitter": "https://twitter.com/MindQuilt",
+		"linkedin": "http://www.linkedin.com/company/mindquilt-inc.?goback=%2Efcs_*2_MindQuilt_false_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&trk=top_nav_home",
+		"website": "http://www.mindquilt.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+		
+		"people": [],
+		
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Startific",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Visually dynamic Startpage",
+		"tags": "saas",
+		"logo": "startific.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "",
+		"twitter": "http://twitter.com/startific",
+		"linkedin": "",
+		"website": "http://startific.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+		
+		"people": [],
+		
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Symme3D",
+		"filters": "filter_bootstrapped", 
+		"status": "early stage",
+		"description": "Multifunctional Delta Platform for 3D Printing, CNC PCB Routing, Laser etching",
+		"tags": "hardware, 3D printing",
+		"logo": "symme3d.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/symme3d",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://symme3d.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Calin Brandabur"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Casa Automata",
+		"filters": "filter_idea", 
+		"status": "pre-release",
+		"description": "Home Automation Solutions",
+		"tags": "smarthome,automation,hardware",
+		"logo": "casa-automata.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://casa-automata.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Calin Brandabur"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "SlickFlick",
+		"filters": "filter_dead",
+		"status": "closed", 
+		"description": "Social app for making & viewing photo comics from your iPhone. Captions. Stickers. Animations.",
+		"tags": "",
+		"logo": "slickflick.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/slickflick",
+		"twitter": "https://twitter.com/slickflick",
+		"linkedin": "",
+		"website": "http://www.slickflick.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "FoodCrew.ro",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Restaurant Reviews",
+		"tags": "",
+		"logo": "foodcrew.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/FoodCrew",
+		"twitter": "https://twitter.com/foodcrewro",
+		"linkedin": "",
+		"website": "http://foodcrew.ro/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "EuCeMananc.ro",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Food Delivery Service",
+		"tags": "food,delivery",
+		"logo": "eucemananc.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/EuCeMananc",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://eucemananc.ro/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Journey",
+		"filters": "filter_dead", 
+		"status": "closed",
+		"description": "We bring together travelers and locals alike, by providing a variety of genuine, unique and authentic experience in places of the beaten path.",
+		"tags": "travel",
+		"logo": "journey.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/journy.co",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://journy.co/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Golivery",
+		"filters": "filter_early", 
+		"status": "early stage",
+		"description": "Golivery is an online service that provides you home delivery for your shopping list.",
+		"tags": "delivery,local,grocery",
+		"logo": "golivery.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/Golivery",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://golivery.co/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "HistoryLapse.org",
+		"filters": "filter_early", 
+		"status": "early stage",
+		"description": "",
+		"tags": "",
+		"logo": "history-lapse.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/HistoryLapse",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://historylapse.org/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Francis Nopcea", "Raida Abulil"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Movidius",
+		"filters": "filter_ab", 
+		"status": "VC funded",
+		"description": "Movidius designs compact, high performance, ultra low power vision processor chips that enable computational imaging and visual awareness.",
+		"tags": "mobile,hardware,vision,chips",
+		"logo": "movidius.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/movidius",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.movidius.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+	
+	{
+		"name": "Monitive",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Website monitoring made simple, reliable and affordable. Get instant alerts when your website goes down.",
+		"tags": "monitoring,saas",
+		"logo": "monitive.png",
+		"angellist": "",
+		"crunchbase": "https://www.crunchbase.com/organization/monitive-com",
+		"facebook": "https://www.facebook.com/monitive",
+		"twitter": "https://twitter.com/monitive",
+		"linkedin": "",
+		"website": "http://monitive.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Lucian Daniliuc"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "DeliBox",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Healthy Breakfast Delivery Service",
+		"tags": "healthy,breakfast,",
+		"logo": "delibox.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/Delibox.ro",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://delibox.ro",
+		"email": "hello@delibox.ro",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Adrian Pica", "Andrei Firoiu"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "TablaDeJoc.ro",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Boardgames Online Store",
+		"tags": "e-commerce,boardgames",
+		"logo": "tabladejoc.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/pages/TablaDeJocro/359858340697721",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.tabladejoc.ro/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "MorningBet",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Odds comparison and more",
+		"tags": "Gambling,Sports",
+		"logo": "morningbet.jpg",
+		"angellist": "https://angel.co/morningbet",
+		"crunchbase": "",
+		"facebook": "http://www.facebook.com/MorningBet",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.morningbet.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Parudi",
+		"filters": "filter_dead",
+		"status": "closed", 
+		"description": "Unique social games that everyone enjoys",
+		"tags": "",
+		"logo": "parudi.png",
+		"angellist": "https://angel.co/parudi",
+		"crunchbase": "",
+		"facebook": "",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.parudi.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Mr. Ursy",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Fresh Fruits Delivery Service",
+		"tags": "fresh,fruits,delivery",
+		"logo": "mr-ursy.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/mrursy",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://mrursy.ro/",
+		"email": "info@mrursy.ro",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Adelina Hobeanu"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "2o",
+		"filters": "filter_dead", 
+		"status": "closed",
+		"description": "Our vision is to create immersive multiplayer experiences across all screens. Games are meant to be played with your friends, anytime, anywhere.",
+		"tags": "",
+		"logo": "2o.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/2ocom",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://2o.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "GetBowtied",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "We are an Elite ThemeForest Boutique Delivering Design-Driven Shop Themes for WordPress and WooCommerce.",
+		"tags": "wordpress,theme",
+		"logo": "get-bowtied.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/GetBowtied",
+		"twitter": "https://twitter.com/GetBowtied",
+		"linkedin": "https://www.linkedin.com/company/get-bowtied",
+		"website": "http://www.getbowtied.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "WPIDE",
+		"filters": "filter_early", 
+		"status": "pre-release",
+		"description": "Develop WordPress like a pro! Our Integrated Development Environment is custom made for WordPress developers.",
+		"tags": "wordpress,ide,development",
+		"logo": "wpide.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/wpide",
+		"twitter": "",
+		"linkedin": "",
+		"website": "https://wpide.net/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Cosul Sanatos",
+		"filters": "filter_dead", 
+		"status": "closed",
+		"description": "Fresh food delivery service",
+		"tags": "",
+		"logo": "cosul-sanatos.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/CosulSanatos",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://cosulsanatos.ro/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Intooitus",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "At Intooitus, we provide effective and non-intrusive tools and consultancy services to support complex quality management needs in large-scale software systems.",
+		"tags": "",
+		"logo": "intooitus.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/pages/Intooitus/219612754756256",
+		"twitter": "https://twitter.com/intooitus",
+		"linkedin": "",
+		"website": "http://www.intooitus.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Radu Marinescu"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "7Out",
+		"filters": "filter_dead", 
+		"status": "closed",
+		"description": "7Out is a social and event planning app and platform that enables users to plan events and organize guest lists.",
+		"tags": "",
+		"logo": "7out.png",
+		"angellist": "",
+		"crunchbase": "https://www.crunchbase.com/organization/7out",
+		"facebook": "http://www.facebook.com/7outApp",
+		"twitter": "http://twitter.com/7OutApp",
+		"linkedin": "",
+		"website": "http://get7out.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Stefan Filip", "Stefan Szakal"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Enveloper",
+		"filters": "filter_dead", 
+		"status": "closed",
+		"description": "Enveloper is a web-based software that provides email management services.",
+		"tags": "",
+		"logo": "enveloper.png",
+		"angellist": "",
+		"crunchbase": "https://www.crunchbase.com/organization/enveloper",
+		"facebook": "https://www.facebook.com/enveloperapp",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.enveloper.co/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Irina Marinescu", "Silviu Runceanu", "Marius Sebastian Trif"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Mindomo",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Mindomo is the most advanced online mind mapping software.",
+		"tags": "",
+		"logo": "mindomo.png",
+		"angellist": "",
+		"crunchbase": "https://www.crunchbase.com/organization/mindomo",
+		"facebook": "",
+		"twitter": "http://twitter.com/mindomo",
+		"linkedin": "",
+		"website": "http://www.mindomo.com/",
+		"email": "info@mindomo.com",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Zoltán Lorincz"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "TPark",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "TPark - cloud based parking administration and payment solution",
+		"tags": "",
+		"logo": "t-park.jpg",
+		"angellist": "",
+		"crunchbase": "https://www.crunchbase.com/organization/piconet",
+		"facebook": "http://www.facebook.com/SMS.TPark",
+		"twitter": "http://twitter.com/TPark",
+		"linkedin": "http://www.linkedin.com/company/piconet",
+		"website": "http://www.tpark.ro/",
+		"email": "claudiu.suma@piconet.ro",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Claudiu Suma"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Marketio",
+		"filters": "filter_idea", 
+		"status": "pre-release",
+		"description": "Social marketplace for handmade, natural, and vintage items.",
+		"tags": "",
+		"logo": "marketio.png",
+		"angellist": "",
+		"crunchbase": "https://www.crunchbase.com/organization/marketio",
+		"facebook": "https://www.facebook.com/marketio",
+		"twitter": "http://twitter.com/marketioco",
+		"linkedin": "",
+		"website": "http://marketio.co/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Ionel Cristian Crisan"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Kiteops",
+		"filters": "filter_dead", 
+		"status": "closed",
+		"description": "Kiteops is an app that helps you manage your servers and apps/websites hosted on different cloud providers.",
+		"tags": "",
+		"logo": "kiteops.png",
+		"angellist": "",
+		"crunchbase": "https://www.crunchbase.com/organization/kiteops",
+		"facebook": "https://www.facebook.com/KiteOps",
+		"twitter": "https://twitter.com/Kiteops",
+		"linkedin": "",
+		"website": "http://kiteops.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Mobilissimo",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Mobile oriented technology blog",
+		"tags": "",
+		"logo": "mobilissimo.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/mobilissimo",
+		"twitter": "https://twitter.com/mobilissimo",
+		"linkedin": "",
+		"website": "http://www.mobilissimo.ro/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Fort Knox",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "PR Agency, creators of EdgeAndBack.ro - Movie reviews with an edge.",
+		"tags": "publishing,movies,reviews",
+		"logo": "fort-knox.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/pages/Fort-Knox-PR/168867283298795?fref=ts",
+		"twitter": "https://twitter.com/FortKnoxPR",
+		"linkedin": "",
+		"website": "http://edgeandback.ro/",
+		"email": "edgeandbackro@gmail.com",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Cozmoslabs",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "WordPress Solutions for developers",
+		"tags": "",
+		"logo": "cozmoslabs.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/cozmoslabs",
+		"twitter": "http://www.twitter.com/sareiodata",
+		"linkedin": "",
+		"website": "http://www.cozmoslabs.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Adrian Spiac"],
+
+		"last_updated": "2015-07-09",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Ajust",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Asistentul tau Juridic. O modalitate simpla de a avea acces la dosare (solutii si termene) de pe mobil sau desktop. Ajust trimite te ajuta sa iti organizezi dosarele si te anunta cand apar modificari",
+		"tags": "",
+		"logo": "ajust.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "http://www.facebook.com/ajust.ro",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://ajust.ro/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Ioan Cosma"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "YouDJ.ro",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "YouDJ is an interactive background music service that lets your customers use their smartphones to select the music they want to hear at your business.",
+		"tags": "music,bars",
+		"logo": "youdj.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/youdj.romania?fref=ts",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://youdj.ro/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Ioan Cosma"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Syneto",
+		"filters": "filter_mature", 
+		"status": "mature",
+		"description": "Our mission is to offer premium data storage solutions to the world, from small companies to large organisations.",
+		"tags": "cloud,storage",
+		"logo": "syneto.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/SynetoStorage",
+		"twitter": "https://twitter.com/syneto",
+		"linkedin": "",
+		"website": "https://syneto.eu/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Dan Vatca"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "SafeFleet",
+		"filters": "filter_mature", 
+		"status": "mature",
+		"description": "GPS Monitoring for Fleet Vehicles",
+		"tags": "",
+		"logo": "safefleet.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/SafeFleet",
+		"twitter": "https://twitter.com/SafeFleet",
+		"linkedin": "https://www.linkedin.com/company/eta-automatizari-industriale",
+		"website": "http://www.safefleet.eu/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Claudiu Suma"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "AndriSoft",
+		"filters": "filter_mature", 
+		"status": "mature",
+		"description": "Andrisoft develops innovative solutions for IP traffic monitoring and DDoS attacks detection & mitigation.",
+		"tags": "",
+		"logo": "andrisoft.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "",
+		"twitter": "https://twitter.com/andrisoft",
+		"linkedin": "https://www.linkedin.com/company/andrisoft",
+		"website": "https://www.andrisoft.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Cristian Andries"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Imobiliare.ro",
+		"filters": "filter_mature", 
+		"status": "mature",
+		"description": "The biggest real estate portal in Romania.",
+		"tags": "",
+		"logo": "imobiliare.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/www.imobiliare.ro",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.imobiliare.ro/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Adrian Erimescu"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Cloudbase",
+		"filters": "filter_mature", 
+		"status": "mature",
+		"description": "Bringing Windows on OpenStack, OpenStack on Hyper-V, AWS / Azure migrations and more cloud interoperability.",
+		"tags": "",
+		"logo": "cloudbase.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/CloudbaseSolutions",
+		"twitter": "https://twitter.com/cloudbaseit",
+		"linkedin": "https://www.linkedin.com/company/cloudbase-solutions",
+		"website": "http://www.cloudbase.it/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Alessandro Pilotti", "Octavian Ciuhandu"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "RomBots Team",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Entertainment media company based in Timisoara, Romania, developing compelling, high quality games and apps for Android and iOS.",
+		"tags": "games,mobile,android",
+		"logo": "rombots.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/RomBotsTeam",
+		"twitter": "https://twitter.com/rombotsteam",
+		"linkedin": "",
+		"website": "http://www.rombotsteam.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "uRADMonitor",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "A global array of network connected monitoring stations, focused on continuous Environmental Gamma Radiation Surveillance.",
+		"tags": "",
+		"logo": "uradmonitor.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/uRADMonitor",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.uradmonitor.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Radu Motisan"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "coprinted",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Unique printables for many occasions!",
+		"tags": "",
+		"logo": "coprinted.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/coPrinted",
+		"twitter": "https://twitter.com/coprinted",
+		"linkedin": "",
+		"website": "http://www.coprinted.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Eduard Boka"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Demoki Interactive",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "We are a small team of goal-oriented people that create solutions and have fun while doing it.",
+		"tags": "",
+		"logo": "demoki.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/pages/Demoki-Interactive/142149635805976",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.demoki.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Eduard Boka"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "The Green Optimistic",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "The Green Optimistic is a blog oriented towards alternative energy and clean technologies.",
+		"tags": "",
+		"logo": "green-optimistic.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/thegreenoptimistic",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.greenoptimistic.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Ovidiu Sandru", "Mihai Sandru"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Lighty",
+		"filters": "filter_very_early", 
+		"status": "Prototype",
+		"description": "Lighty is world's most intelligent and versatile multimedia projector system ever built.",
+		"tags": "",
+		"logo": "lighty.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.getlighty.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Ovidiu Sandru"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "icMed",
+		"filters": "filter_mature", 
+		"status": "mature",
+		"description": "Medical Information System for Clinics, Hospitals and Small Practices",
+		"tags": "",
+		"logo": "ic-med.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/pages/Syonic/",
+		"twitter": "",
+		"linkedin": "https://www.linkedin.com/company/syonic",
+		"website": "http://www.icmed.ro/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Michael Bullert"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Psycentive",
+		"filters": "filter_early", 
+		"status": "Early stage",
+		"description": "Bringing positive change by studying human behavior and what motivates us.",
+		"tags": "",
+		"logo": "psycentive.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/psycentive",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://psycentive.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Eduard Boka"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "LivePR",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Special Communication platform for Press Releases.",
+		"tags": "",
+		"logo": "livepr.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/LivePR.ro",
+		"twitter": "https://twitter.com/livepr_ro",
+		"linkedin": "",
+		"website": "http://www.livepr.ro/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Cristian Sutac"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Myquotecloud",
+		"filters": "filter_early", 
+		"status": "Early stage",
+		"description": "myQuoteCloud is a web-based product, created by a company with over 10 years of experience in the Internet field.",
+		"tags": "",
+		"logo": "myquotecloud.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/myquoatecloud",
+		"twitter": "https://twitter.com/myquotecloud",
+		"linkedin": "",
+		"website": "http://myquotecloud.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Cristian Sutac"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "PocketDroid",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "We are a group of enthusiasts, dedicated to bring you, all the latest and the best information, plus developments from the Android world, such as phone reviews, previews, tutorials, and all the latest apps & games",
+		"tags": "",
+		"logo": "pocket.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/PocketdroidDotNet",
+		"twitter": "https://twitter.com/Pocketdroid",
+		"linkedin": "",
+		"website": "http://www.pocketdroid.net/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Florin Popovici"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Work In Startups",
+		"filters": "filter_bootstrapped", 
+		"status": "Early stage",
+		"description": "See the latest job opportunities from the coolest UK startups.",
+		"tags": "",
+		"logo": "workinstartups.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/workinstartups",
+		"twitter": "https://twitter.com/workinstartups",
+		"linkedin": "",
+		"website": "http://workinstartups.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Alex Borbely", "Diana (Proca) ILINCA"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "AuditionPad",
+		"filters": "filter_early", 
+		"status": "Private Beta",
+		"description": "Audition Pad helps companies test and interview software engineers online.",
+		"tags": "",
+		"logo": "auditionpad.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/auditionpad",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.auditionpad.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Raul Firu"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Coultour",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Any city might become your favorite, after discovering it using Coultour. We've built an app that takes the hassle out of sightseeing.",
+		"tags": "",
+		"logo": "coultour.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/Coultour",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://coultour.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "https://itunes.apple.com/us/app/coultour-timisoara/id956857232",
+
+		"people": ["Roland Huhn"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Beagli",
+		"filters": "filter_early", 
+		"status": "Early stage",
+		"description": "Make sense of your contacts. Analytics that helps you maintain your personal and professional relationships.",
+		"tags": "",
+		"logo": "beagli.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.beagli.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Shase",
+		"filters": "filter_early", 
+		"status": "Prototype",
+		"description": "A new concept that uniquely combines games and art",
+		"tags": "",
+		"logo": "shase.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/senekastudios",
+		"twitter": "",
+		"linkedin": "",
+		"website": "",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Paul Muntean"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Qualteh",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "Innovative, complex and secure, high-quality mobile solutions.",
+		"tags": "",
+		"logo": "qualteh.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/pages/Qualteh-Romania/197393330299337",
+		"twitter": "",
+		"linkedin": "https://www.linkedin.com/company/qualteh-jr",
+		"website": "http://qualteh.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Drobots",
+		"filters": "filter_bootstrapped", 
+		"status": "bootstrapped",
+		"description": "An IT company specialized in online statistical processing & reporting for social sciences research.",
+		"tags": "",
+		"logo": "drobots.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "",
+		"twitter": "",
+		"linkedin": "https://www.linkedin.com/company/drobots",
+		"website": "http://www.drobots.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Adel Vigdorovics"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "nJoy",
+		"filters": "filter_mature", 
+		"status": "Mature",
+		"description": "nJoy represents the multitude of feelings and expressions that you experience when you make contact with a technological product.",
+		"tags": "",
+		"logo": "njoy.jpg",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/nJoyRO",
+		"twitter": "https://twitter.com/NjoyRO",
+		"linkedin": "",
+		"website": "http://www.njoy.ro/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Adorian Demeter"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "Wavescore",
+		"filters": "filter_dead", 
+		"status": "Closed",
+		"description": "Why can't music turn its own pages? Do you want instant, objective feedback from the scores you're playing? WaveScore brings traditional scores to life.",
+		"tags": "",
+		"logo": "wavescore.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/wave.score",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://wavescore.co/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Cassian Lup"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+	
+	{
+		"name": "Visit in Time",
+		"filters": "filter_dead", 
+		"status": "Closed",
+		"description": "Visit in Time provides the best visit experience in short period of time",
+		"tags": "travel,local",
+		"logo": "visit-in-time.png",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "https://www.facebook.com/visitintime",
+		"twitter": "",
+		"linkedin": "",
+		"website": "http://www.visitintime.com/",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": ["Stephane Mee"],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	},
+
+	{
+		"name": "",
+		"filters": "filter_ab filter_angel filter_early filter_very_early filter_bootstrapped filter_idea filter_dead filter_mature", 
+		"status": "",
+		"description": "",
+		"tags": "",
+		"logo": "",
+		"angellist": "",
+		"crunchbase": "",
+		"facebook": "",
+		"twitter": "",
+		"linkedin": "",
+		"website": "",
+		"email": "",
+
+		"googleplay": "",
+		"applestore": "",
+
+		"people": [],
+
+		"last_updated": "2015-08-01",
+		"last_activity": ""
+	}
+]}

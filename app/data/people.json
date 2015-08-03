@@ -1,0 +1,1501 @@
+{ "items": [
+	{
+		"name": "Radu Ticiu",
+		"photo": "radu-ticiu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Promoting entrepreneurship in Timisoara Startup Hub, Seedcamp mentor, TiMoDev founder, CoderDojo champion & promoter, father & grateful husband.",
+
+		"twitter": "https://twitter.com/RaduTiciu",
+		"facebook": "https://www.facebook.com/radu.ticiu",
+		"linkedin": "https://ro.linkedin.com/in/raduticiu",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": [],
+		"other": ["StartupHub", "CoderDojo"],
+
+		"filters": "filter_organizer"
+	},
+
+	{
+		"name": "Adrian Pica",
+		"photo": "adrian-pica.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Global Facilitator at Startup Weekend (UP Global), organizer @SWTimisoara. Communications Manager @CESAwards, Startup Scout @inventures_eu. Co-Founder @oblicoHQ",
+
+		"twitter": "https://twitter.com/adrianpica",
+		"facebook": "https://www.facebook.com/adrianpica",
+		"linkedin": "https://ro.linkedin.com/in/adrianpica",
+		"angellist": "https://angel.co/adrian-pica",
+		"website": "http://adrianpica.co",
+		"email": "",
+
+		"startups": ["Oblico", "DeliBox.ro"],
+		"other": ["Startup Weekend Timisoara", "Startup Pirates Timisoara", "Startup Coffee"],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Andrei Munteanu",
+		"photo": "andrei-munteanu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Global Facilitator at Startup Weekend, Lead Organizer at SW Timisoara & SW Oradea, Coder Dojo volunteer. Energetic, ambitious and a tad crazy on the sides.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/andreicosmin.munteanu",
+		"linkedin": "https://ro.linkedin.com/pub/andrei-cosmin-munteanu/5a/761/628",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Journey"],
+		"other": ["Startup Weekend Timisoara"],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Vlad Isac",
+		"photo": "vlad-isac.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "coworking up the maslow thingy @hubtm , entrepreneur, js py coder, Coderdojo sensei",
+
+		"twitter": "https://twitter.com/vladisac",
+		"facebook": "https://www.facebook.com/isacvlad",
+		"linkedin": "https://ro.linkedin.com/in/vladisac",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": [],
+		"other": ["StartupHub", "CoderDojo"],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Andrei Firoiu",
+		"photo": "andrei-firoiu.png",
+		"specialization": "Software Engineer",
+		"expertise": "web development,mobile development,",
+		"description": "Co-founder at Oblico. Web entrepreneur, product builder, book lover, traveler, proud father and of course (and why not?) looking for world fame.",
+
+		"twitter": "https://twitter.com/andreifiroiu",
+		"facebook": "https://www.facebook.com/andreifiroiu",
+		"linkedin": "https://ro.linkedin.com/in/andreifiroiu",
+		"angellist": "https://angel.co/andreifiroiu",
+		"website": "http://andreifiroiu.me/",
+		"email": "andrei.firoiu@gmail.com",
+
+		"startups": ["Oblico", "DeliBox", "AziLaPranz.ro"],
+		"other": ["Startup Weekend Timisoara", "Startup Pirates Timisoara", "Startup Coffee"],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Eduard Locota",
+		"photo": "eduard-locota.jpg",
+		"specialization": "Graphic Artist",
+		"expertise": "Web Design,Team Management,Graphic Design",
+		"description": "Founder of Startific.com, passionate 2D and 3D graphic artist; my final purpose is to create.",
+
+		"twitter": "http://www.twitter.com/EduardLocota",
+		"facebook": "http://www.facebook.com/lee.eduard",
+		"linkedin": "http://ro.linkedin.com/pub/eduard-locota/23/722/242",
+		"angellist": "",
+		"website": "https://angel.co/e-locota",
+		"email": "",
+
+		"startups": ["Startific"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Ionut Antiu",
+		"photo": "ionut-antiu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder at @StyleJukebox",
+
+		"twitter": "https://twitter.com/JohnnyAntiu",
+		"facebook": "",
+		"linkedin": "http://www.linkedin.com/pub/ionut-antiu/3b/930/bb2",
+		"angellist": "https://angel.co/ionut-antiu",
+		"website": "",
+		"email": "",
+
+		"startups": ["Style Jukebox"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Raul Andrișan",
+		"photo": "raul-andrisan.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-founder at SlickFlick, Co-founder at NextRoot (http://www.nextroot.com ), iOS WP7 Mobile Developer",
+
+		"twitter": "https://twitter.com/raulandrisan",
+		"facebook": "http://www.facebook.com/raul.andrisan",
+		"linkedin": "http://www.linkedin.com/in/raulandrisan",
+		"angellist": "https://angel.co/raul-andrisan",
+		"website": "",
+		"email": "",
+
+		"startups": ["SlickFlick", "NextRoot"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Vlad Drimbau",
+		"photo": "vlad-drimbau.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Digital Product Designer. UX/UI Designer @123ContactForm, founded and built @Photolenser, Co-Founder/Product Designer @Hipride",
+
+		"twitter": "https://twitter.com/vlaxor",
+		"facebook": "http://www.facebook.com/vlad.drimbau",
+		"linkedin": "http://ro.linkedin.com/pub/vlad-drimbau/29/18b/22a",
+		"angellist": "https://angel.co/vlad-drimbau",
+		"website": "http://drimbauvlad.dunked.com/",
+		"email": "",
+
+		"startups": ["Hipride", "Photolenser"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Calin Brandabur",
+		"photo": "calin-brandabur.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "I code, design and build stuff. My latest challenge is @Symme3D and http://casa-automata.com",
+
+		"twitter": "https://twitter.com/cbrandabur",
+		"facebook": "https://www.facebook.com/calin.brandabur",
+		"linkedin": "https://ro.linkedin.com/in/calinbrandabur",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Symme3D", "Casa Automata"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Mihai-Cristian Micle",
+		"photo": "mihai-cristian-micle.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Freshome founder and CEO Micle-Mihai Cristian started Freshome back in 2007 at the tender age of 20.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/miclemihai?fref=hovercard",
+		"linkedin": "https://ro.linkedin.com/pub/micle-mihai-cristian/19/611/602",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Freshome.com"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Flavius Nopcea",
+		"photo": "flavius-nopcea.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "CEO at www.ubirimi.com, Head of Software Development at Netex Consulting",
+
+		"twitter": "",
+		"facebook": "",
+		"linkedin": "https://www.linkedin.com/in/nopceaflavius",
+		"angellist": "https://angel.co/flavius-nopcea",
+		"website": "",
+		"email": "",
+
+		"startups": ["Ubirimi"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Francisc Nopcea",
+		"photo": "francisc-nopcea.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "I am working on History Lapse, a disruptive learning platform with a focus on history.",
+
+		"twitter": "",
+		"facebook": "",
+		"linkedin": "https://www.linkedin.com/in/nopceaflavius",
+		"angellist": "https://angel.co/flavius-nopcea",
+		"website": "",
+		"email": "",
+
+		"startups": ["Ubirimi", "History Lapse"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Florin Cornianu",
+		"photo": "florin-cornianu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "CEO at 123ContactForm.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/florin.cornianu",
+		"linkedin": "http://www.linkedin.com/in/florincornianu",
+		"angellist": "https://angel.co/cornianu-florin",
+		"website": "",
+		"email": "",
+
+		"startups": ["123ContactForm"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Tudor Bastea",
+		"photo": "tudor-bastea.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "CTO, CoFounder at 123ContactForm",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/tbastea",
+		"linkedin": "https://ro.linkedin.com/in/tudorbastea",
+		"angellist": "https://angel.co/tbastea",
+		"website": "",
+		"email": "",
+
+		"startups": ["123ContactForm"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Stefan Szakal",
+		"photo": "stefan-szakal.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Entrepreneur, UX Designer. AltClub, [e-spres-oh], MYGOV Development, X3",
+
+		"twitter": "https://twitter.com/StefanSzakal",
+		"facebook": "https://www.facebook.com/stefan.szakal",
+		"linkedin": "https://ro.linkedin.com/in/stefanszakal",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": [],
+		"other": ["AltClub"],
+
+		"filters": "filter_entrepreneur filter_organizer filter_investor"
+	},
+
+	{
+		"name": "Calin Iepure",
+		"photo": "calin-iepure.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Coordonator Speaker Support Group la Business Days",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/calin.iepure",
+		"linkedin": "https://ro.linkedin.com/in/caliniepure",
+		"angellist": "",
+		"website": "http://calin-iepure.blogspot.ro/",
+		"email": "",
+
+		"startups": [],
+		"other": [],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Ana-Maria Radu",
+		"photo": "ana-maria-radu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Freelance PR Consultant",
+
+		"twitter": "https://twitter.com/annamradu",
+		"facebook": "",
+		"linkedin": "https://ro.linkedin.com/in/annamradu/en",
+		"angellist": "",
+		"website": "http://annamariaradu.blogspot.ro/",
+		"email": "anna19922000@yahoo.com",
+
+		"startups": [],
+		"other": ["StartupHub"],
+
+		"filters": "filter_pundit"
+	},
+
+	{
+		"name": "Remus Radvan",
+		"photo": "remus-radvan.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder at Creative Minds HUB, Business Development Manager at Ascendro Web Technologies",
+
+		"twitter": "https://twitter.com/RemusRadvan",
+		"facebook": "https://www.facebook.com/radvan.remus",
+		"linkedin": "https://ro.linkedin.com/in/remusradvan",
+		"angellist": "",
+		"website": "http://remusradvan.com/",
+		"email": "",
+
+		"startups": [],
+		"other": ["Creative Minds Hub"],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Toma Grozavescu",
+		"photo": "toma-grozavescu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Growth Hacker at Smarters Romania, AIESEC Timisoara, Clubul de Management, UN Youth Association of Romania (UNYAR)",
+
+		"twitter": "https://twitter.com/Toma_Grozav",
+		"facebook": "https://www.facebook.com/toma.grozavescu",
+		"linkedin": "https://ro.linkedin.com/in/tomagrozavescu",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": [],
+		"other": [],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Claudiu Suma",
+		"photo": "claudiu-suma.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "CEO at SafeFleet Telematics. Specialties: M2M, ITS, parking, eCall, telematics, AMR, AVL, mobile payments, SCADA, BMS",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/Sumache",
+		"linkedin": "https://ro.linkedin.com/in/sumache",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["SafeFleet", "TPark"],
+		"other": [],
+
+		"filters": "filter_entrepreneur filter_investor"
+	},
+
+	{
+		"name": "Florin Dumitrescu",
+		"photo": "florin-dumitrescu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Corporate law, incorporations, mergers & acquisition, taxation, real estate law, tax planning, contracts, debit decovery,intelectual property, concurrence law,international arbitration,offshore company",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/florin.dumitrescu1",
+		"linkedin": "https://ro.linkedin.com/in/dumitrescuflorin",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": [],
+		"other": ["Dumitrescu & Asociatii"],
+
+		"filters": "filter_pundit"
+	},
+
+	{
+		"name": "Lucian Daniliuc",
+		"photo": "lucian-daniliuc.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "@monitive Founder, Scrum Master, Zend Certified Engineer and passionate photographer. Turning into Batman during the night.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/lucian.daniliuc",
+		"linkedin": "https://ro.linkedin.com/in/luciandaniliuc",
+		"angellist": "",
+		"website": "http://daniliuc.com/",
+		"email": "",
+
+		"startups": ["Monitive"],
+		"other": [],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Dragos Firoiu",
+		"photo": "dragos-firoiu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Owner at TablaDeJoc.ro",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/dragos.firoiu",
+		"linkedin": "",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["TablaDeJoc.ro"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Mircea Rila",
+		"photo": "mircea-rila.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Senior Software Engineer. I'm the co-founder of Parudi, a casual game development company, accelerated at Eleven Venture Fund, in Sofia.",
+
+		"twitter": "https://twitter.com/zaWasp",
+		"facebook": "https://www.facebook.com/mircea.rila",
+		"linkedin": "https://ro.linkedin.com/in/mircearila",
+		"angellist": "",
+		"website": "http://www.monocube.com/",
+		"email": "",
+
+		"startups": ["Parudi"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Mile Rosu",
+		"photo": "mile-rosu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-founder at PressLabs. Ideation, Strategic, Individualization, Futuristic, Relator, Clifton says",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/milero",
+		"linkedin": "https://ro.linkedin.com/in/milero",
+		"angellist": "https://angel.co/mile-rosu",
+		"website": "",
+		"email": "",
+
+		"startups": ["PressLabs"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Adrian Pasarica",
+		"photo": "adrian-pasarica.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-founder, CEO at Parudi. I am passionate about creating original and addictive games and I have an extensive background in software development.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/adrian.pasarica",
+		"linkedin": "",
+		"angellist": "https://angel.co/adrian-pasarica-1",
+		"website": "",
+		"email": "",
+
+		"startups": ["Parudi"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Ioan Cosma",
+		"photo": "ioan-cosma.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "engineer & entrepreneur",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/cosmaioan",
+		"linkedin": "https://ro.linkedin.com/in/cosmaioan",
+		"angellist": "",
+		"website": "http://cosma.me/",
+		"email": "",
+
+		"startups": ["Ajust", "YouDJ.ro"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Arthur Csertus",
+		"photo": "arthur-certus.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-Founder at Cobalt Sign",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/arthur.csertus",
+		"linkedin": "https://ro.linkedin.com/in/arthurcsertus",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Cobalt Sign"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Oana Csertus",
+		"photo": "oana-certus.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-Founder at Cobalt Sign",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/oana.csertus",
+		"linkedin": "",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Cobalt Sign"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Silviu Rusu",
+		"photo": "silviu-rusu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder MorningBet",
+
+		"twitter": "https://twitter.com/SilviuRusu",
+		"facebook": "",
+		"linkedin": "",
+		"angellist": "https://angel.co/silviurusu",
+		"website": "",
+		"email": "",
+
+		"startups": ["MorningBet"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Alexandru Roja",
+		"photo": "alexandru-roja.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "PhD in Management lecturer and researcher in entrepreneurship, strategic management, business development and strategic analysis. Founder of Envisioning project for a smart strategic development.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/alexandruroja",
+		"linkedin": "https://ro.linkedin.com/in/alexandruroja",
+		"angellist": "",
+		"website": "http://www.alexandruroja.ro/",
+		"email": "",
+
+		"startups": [],
+		"other": [],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Adelina Hobeanu",
+		"photo": "adelina-hobeanu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "mr.ursy's helper",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/adelina.hobeanu",
+		"linkedin": "https://ro.linkedin.com/pub/adelina-hobeanu/51/201/6a5/en",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Mr. Ursy"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Ovidiu Maghetiu",
+		"photo": "ovidiu-maghetiu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder at WPIDE.net",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/ovidiumght",
+		"linkedin": "https://ro.linkedin.com/pub/ovidiu-maghetiu/1a/682/615",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": [],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Radu Marinescu",
+		"photo": "radu-marinescu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-Founder Intooitus, Professor of Software Engineering at UPT and Group Manager for Code Quality at Endava.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/radu.marinescu.503",
+		"linkedin": "https://ro.linkedin.com/pub/radu-marinescu/3/a35/bbb",
+		"angellist": "",
+		"website": "http://www.cs.upt.ro/~radum",
+		"email": "",
+
+		"startups": ["Intooitus"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Valentin Muresan",
+		"photo": "valentin-muresean.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Val is an experienced embedded R&D leader and entrepreneur who built a 50+ Silicon and Software Development Centre and innovation team from scratch in Timisoara, Romania.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/val.muresan",
+		"linkedin": "https://ro.linkedin.com/in/valmuresan",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Movidius"],
+		"other": ["BanatIT"],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Adrian Laboş",
+		"photo": "adrian-labos.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Being Awesome at Get Bowtied",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/adrianlbs",
+		"linkedin": "https://ro.linkedin.com/in/adrianlbs",
+		"angellist": "",
+		"website": "http://visualcollectibles.tumblr.com/",
+		"email": "",
+
+		"startups": ["Get Bowtied"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Andrei Palamariu",
+		"photo": "andrei-palmariu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Golivery, Buzz Global, Cosul Sanatos, AIESEC Thailand",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/palamariu.andrei",
+		"linkedin": "https://ro.linkedin.com/pub/andrei-palamariu/b/8/298",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Golivery", "Cosul Sanatos"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "‎Denis Denes",
+		"photo": "denis-denes.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-founder Golivery",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/denis.denes",
+		"linkedin": "",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Golivery"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Alex Albu",
+		"photo": "alex-albu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "FoodCrew, Dream Production. Storyteller, WordPress Enthusiast, Interaction Design Rookie, Geek Scout, Foodie. I also have a real life :)",
+
+		"twitter": "https://twitter.com/AlexAlbu",
+		"facebook": "https://www.facebook.com/alexandru.albu",
+		"linkedin": "https://www.linkedin.com/in/alexalbu",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["FoodCrew.ro"],
+		"other": [],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Andrei Marin",
+		"photo": "andrei-marin.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Mad Scientist, FoodCrew.ro, Dream Production",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/andreidp",
+		"linkedin": "https://ro.linkedin.com/in/andreidp",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["FoodCrew.ro"],
+		"other": [],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Ciprian Caba",
+		"photo": "ciprian-caba.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Starcraft addict, Game Developer, Technology enthusiast, CEO & Co-Founder @2o",
+
+		"twitter": "https://twitter.com/cipriancaba",
+		"facebook": "https://www.facebook.com/cipriancaba",
+		"linkedin": "https://ro.linkedin.com/in/cipriancaba",
+		"angellist": "",
+		"website": "http://www.cipriancaba.com/",
+		"email": "",
+
+		"startups": ["2o"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Oana Pislaru",
+		"photo": "oana-pislaru.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Manager at Alt Club, Executive Director at Ctrl-D",
+
+		"twitter": "https://twitter.com/OanaPislaru",
+		"facebook": "https://www.facebook.com/oana.pislaru",
+		"linkedin": "https://ro.linkedin.com/in/oanapislaru",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["AltClub", "Ctrl-D"],
+		"other": [],
+
+		"filters": "filter_pundit"
+	},
+
+	{
+		"name": "Irina Marinescu",
+		"photo": "irina-marinescu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Business Strategist & Startup Mentor, just trying to save the planet one startup at a time.",
+
+		"twitter": "https://twitter.com/theIrinaM",
+		"facebook": "https://www.facebook.com/irina.marinescu2",
+		"linkedin": "https://ro.linkedin.com/in/irinamarinescu",
+		"angellist": "",
+		"website": "http://semrockstar.com/",
+		"email": "",
+
+		"startups": ["Enveloper"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Silviu Runceanu",
+		"photo": "silviu-runceanu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "UX/UI Chef @ Save Potatoes. Startup Mentor and Serial Entrepreneur. I love basketball & sweets.",
+
+		"twitter": "https://twitter.com/Runceanu",
+		"facebook": "https://www.facebook.com/Runceanu",
+		"linkedin": "https://ro.linkedin.com/in/runceanu",
+		"angellist": "",
+		"website": "http://runceanu.com/",
+		"email": "",
+
+		"startups": ["Enveloper"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+	
+	{
+		"name": "Zoltán Lörincz",
+		"photo": "zoltan-lorincz.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-founder at Mindomo",
+
+		"twitter": "",
+		"facebook": "",
+		"linkedin": "https://ro.linkedin.com/pub/zolt%C3%A1n-l%C3%B6rincz/2b/211/82",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Mindomo"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Ionel Cristian Crisan",
+		"photo": "ionel-cristian-crisan.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder @marketioco. Web geek. Coffee lover.",
+
+		"twitter": "https://twitter.com/crisanionel",
+		"facebook": "",
+		"linkedin": "https://ro.linkedin.com/in/crisanionel",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Marketio"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Mihai Dragan",
+		"photo": "mihai-dragan.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder of Plan 0 Makerspace",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/fabrik.tim/",
+		"linkedin": "",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": [],
+		"other": ["Plan 0 Makerspace"],
+
+		"filters": "filter_pundit"
+	},
+
+	{
+		"name": "Claudiu Codoban",
+		"photo": "claudiu-codoban.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-founder at Golivery and Mentor at CoderDojo Timisoara",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/claudiu.codoban.7",
+		"linkedin": "https://ro.linkedin.com/pub/claudiu-codoban/9a/309/989",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Golivery"],
+		"other": [],
+
+		"filters": "filter_entrepreneur filter_pundit"
+	},
+
+	{
+		"name": "Adrian Spiac",
+		"photo": "adrian-spiac.png",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-founder at Cozmoslabs, co-founder at Reflection Media. A web enthusiast and personal development fan which kind of reflects his competitive nature.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/adi.spiac",
+		"linkedin": "https://ro.linkedin.com/in/adispiac",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Cozmoslabs"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Cristian Antohe",
+		"photo": "cristian-antohe.png",
+		"specialization": "",
+		"expertise": "",
+		"description": "Cofounder of http://www.cozmoslabs.com  and I curate http://wpmail.me ",
+
+		"twitter": "https://twitter.com/sareiodata",
+		"facebook": "https://www.facebook.com/cristian.antohe",
+		"linkedin": "",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Cozmoslabs"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Dan Vatca",
+		"photo": "dan-vatca.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Dan is the CTO and a founder of Syneto. He now oversees Syneto’s technical direction, research and strategy.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/dan.vatca",
+		"linkedin": "https://ro.linkedin.com/in/danvatca",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Syneto"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Cristian Andries",
+		"photo": "cristian-andries.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder & C.T.O. at Andrisoft",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/naitluzar",
+		"linkedin": "https://ro.linkedin.com/pub/cristian-andries/1/135/77a",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Andrisoft"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Adrian Erimescu",
+		"photo": "adrian-erimescu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "",
+
+		"twitter": "https://twitter.com/aerimescu",
+		"facebook": "https://www.facebook.com/adrian.erimescu",
+		"linkedin": "https://www.linkedin.com/in/aerimescu",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Imobiliare.ro"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Alessandro Pilotti",
+		"photo": "alessandro-pilotti.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "CEO of Cloudbase Solutions a company focused on cloud computing interoperability",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/alessandro.pilotti",
+		"linkedin": "https://ro.linkedin.com/pub/alessandro-pilotti/3/a21/210",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Cloudbase"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Octavian Ciuhandu",
+		"photo": "octavian-ciuhandu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "COO of Cloudbase Solutions. Octavian is a young entrepreneur that started his own business in 2004, right after graduating a research M.Sc. in Dublin, Ireland.",
+
+		"twitter": "https://twitter.com/ociuhandu",
+		"facebook": "https://www.facebook.com/octavian.ciuhandu",
+		"linkedin": "https://ro.linkedin.com/in/ociuhandu",
+		"angellist": "",
+		"website": "https://github.com/ociuhandu",
+		"email": "",
+
+		"startups": ["Cloudbase"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Andrei Avram",
+		"photo": "andrei-avram.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "More than 7 years of experience in founding & developing Internet related businesses, such as websites, mobile applications and web related companies.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/andreyavram",
+		"linkedin": "https://ro.linkedin.com/in/avramandrei",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["FermaDeMuzica.ro", "Transylvania High Tech", "AppRevelation"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Eduard Boka",
+		"photo": "eduard-boka.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Manager at Demoki Interactive. Application Developer and Project Manager in a wide variety of business applications.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/eduard.boka",
+		"linkedin": "https://ro.linkedin.com/pub/eduard-boka/28/904/617",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Demoki Interactive", "coprinted", "Psycentive"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Ovidiu Sandru",
+		"photo": "ovidiu-sandru.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-founder, designer, writer at The Green Optimistic",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/ovidiu.sandru",
+		"linkedin": "",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["The Green Optimistic"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Mihai Sandru",
+		"photo": "mihai-sandru.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder & editor-in-chief at The Green Optimistic",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/sandru.mihai.7",
+		"linkedin": "https://ro.linkedin.com/in/ovidiusandru",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["The Green Optimistic"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Michael Bullert",
+		"photo": "michael-bullert.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Managing Partner at Syonic (icMed)",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/michael.bullert.5",
+		"linkedin": "https://ro.linkedin.com/pub/michael-bullert/4/9b5/97a",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Syonic", "icMed"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Cristian Sutac",
+		"photo": "cristian-sutac.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Owner at DOW MEDIA, Myquotecloud, LivePR.ro",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/cristiansutac",
+		"linkedin": "https://ro.linkedin.com/in/cristiansutac",
+		"angellist": "",
+		"website": "http://www.cristiansutac.ro/",
+		"email": "",
+
+		"startups": ["Myquotecloud"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Florin Popovici",
+		"photo": "florin-popovici.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder at PocketDroid, Gadget Talk Romania",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/florinpopovici",
+		"linkedin": "https://ro.linkedin.com/in/florinpopovici",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["PocketDroid", "Gadget Talk"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Alex Borbely",
+		"photo": "alex-borbely.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-Founder at Work In Startups",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/alexandru.borbely",
+		"linkedin": "https://www.linkedin.com/in/alexborbely",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Work In Startups"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Raul Firu",
+		"photo": "raul-firu.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Co-Founder at AuditionPad",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/raul.firu",
+		"linkedin": "https://de.linkedin.com/pub/raul-firu/1/512/3a3",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["AuditionPad"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Roland Huhn",
+		"photo": "roland-huhn.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder of Coultour",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/roland.huhn",
+		"linkedin": "https://ro.linkedin.com/in/rolandhuhn/en",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Coultour"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Valentin Iftime",
+		"photo": "valentin-iftime.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "CTO at RomBots Team",
+
+		"twitter": "",
+		"facebook": "",
+		"linkedin": "https://ro.linkedin.com/pub/valentin-iftime/47/825/429",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["RomBots Team"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Alin-Adnan Vasile",
+		"photo": "alin-adnan-vasile.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Game Design, Artist at RomBots Team",
+
+		"twitter": "",
+		"facebook": "",
+		"linkedin": "https://ro.linkedin.com/pub/vasile-alin-adnan/46/389/631",
+		"angellist": "",
+		"website": "http://adnan.ro/",
+		"email": "",
+
+		"startups": ["RomBots"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Radu Motisan",
+		"photo": "radu-motisan.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder of uRADMonitor. With a wide interest for technology and a long term experience with all sides of software industry.",
+
+		"twitter": "https://twitter.com/radumotisan",
+		"facebook": "https://www.facebook.com/radu.motisan",
+		"linkedin": "https://ro.linkedin.com/pub/radu-motisan/61/61/800",
+		"angellist": "",
+		"website": "https://about.me/radu.motisan",
+		"email": "",
+
+		"startups": ["uRADMonitor"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Paul Muntean",
+		"photo": "paul-muntean.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder / Making games at Seneka Studios (Shase)",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/munteanp",
+		"linkedin": "",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Shase"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Ovidiu Sandor",
+		"photo": "ovidiu-sandor.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "CEO at ModaTim Investment SA. After post-univerity studies in Human Computer Interaction, starting with 1998 I have been running a number of businesses in Romania.",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/ovidiu.sandor",
+		"linkedin": "https://ro.linkedin.com/pub/ovidiu-sandor/1/4b2/8a",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["StyleJukebox"],
+		"other": [],
+
+		"filters": "filter_investor"
+	},
+
+	{
+		"name": "Adorian Demeter",
+		"photo": "adorian-demeter.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Owner & GM at DAI-TECH (nJoy)",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/adorian.demeter",
+		"linkedin": "https://ro.linkedin.com/pub/adorian-demeter/1a/b80/8a4",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["nJoy"],
+		"other": [],
+
+		"filters": "filter_entrepreneur"
+	},
+
+	{
+		"name": "Cassian Lup",
+		"photo": "cassian-lup.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "Founder at Wavescore and tim.js",
+
+		"twitter": "",
+		"facebook": "https://www.facebook.com/cassi.lup",
+		"linkedin": "https://ro.linkedin.com/in/cassianlup",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Wavescore"],
+		"other": [],
+
+		"filters": "filter_entrepreneur filter_organizer"
+	},
+
+	{
+		"name": "Stephane Mee",
+		"photo": "stephane-mee.jpg",
+		"specialization": "",
+		"expertise": "",
+		"description": "COO @ BCD and GM @ Cariyo. Stéphane managed projects for global brands (Europcar, Orange, Microsoft, Intel) and moved to larger CRM and Digital engagements such as Dell, Avery Dennison, Michelin or Coca-Cola.",
+
+		"twitter": "https://twitter.com/mistermi",
+		"facebook": "https://www.facebook.com/stephane.mee.3",
+		"linkedin": "",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": ["Visit In Time"],
+		"other": [],
+
+		"filters": "filter_entrepreneur filter_organizer filter_investor filter_pundit"
+	},
+
+	{
+		"name": "",
+		"photo": "",
+		"specialization": "",
+		"expertise": "",
+		"description": "",
+
+		"twitter": "",
+		"facebook": "",
+		"linkedin": "",
+		"angellist": "",
+		"website": "",
+		"email": "",
+
+		"startups": [],
+		"other": [],
+
+		"filters": "filter_entrepreneur filter_organizer filter_investor filter_pundit"
+	}
+]}
